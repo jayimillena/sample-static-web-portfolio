@@ -1,4 +1,4 @@
-# Jay Millena — Senior Laravel & TALL Stack Developer Portfolio
+# Jay Millena — Laravel & TALL Stack Developer Portfolio
 
 Welcome to the personal developer portfolio repository of **Jay Millena**, a Web Developer with **8 years of experience** specializing in modern PHP, Laravel, and the TALL Stack ecosystem (Tailwind CSS, Alpine.js, Livewire, Laravel).
 
